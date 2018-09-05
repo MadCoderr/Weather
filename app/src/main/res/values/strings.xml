@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hint">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="city">City :</string>
+    <string name="date">Date:</string>
+    <string name="max_temp">Max Temperature</string>
+    <string name="min_temperature">Min Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="moon_set">Moon Set:</string>
+    <string name="region">Region:</string>
+</resources>
